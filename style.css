@@ -432,24 +432,6 @@ noscript{
     gap: 4px;
     z-index: 1;
 }
-.eye{
-   width: 8px;
-   height: 8px;
-   border-radius: 50%;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   background-color: white;
-   overflow: hidden;
-
-
-}
-.pupil{
-    width:4px;
-    height:4px;
-    background: rgb(36, 16, 16);
-    border-radius: 50%;
-}
 /* .eye:after { 
     position: absolute;
     width: 4px;
